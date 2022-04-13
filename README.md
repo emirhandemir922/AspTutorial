@@ -32,3 +32,5 @@ Added functions;
   Place order button reduces the stock of the specific product with the amount that the user wants
   
 -Orders.aspx page to track the given orders to that time from the signed-in user such as product name, quantity, total price, date-time etc.
+  
+  In this page user can leave a comment and/or rate the product if the orderStatus is "Delivered"
