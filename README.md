@@ -1,4 +1,4 @@
-# AspTutorial
+# E-Commerce Website
 
 This is a fully functional E-commerce website that was created to learn the basics of Asp.Net
 
